@@ -1,0 +1,10 @@
+# Install logs and config backups created by install.sh
+*.log
+*.bak.*
+
+# Editor / OS clutter
+*~
+*.swp
+.vscode/
+.idea/
+.DS_Store
